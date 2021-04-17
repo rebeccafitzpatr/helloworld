@@ -1,0 +1,5 @@
+height = int(input("What is the height?"))
+base = int(input("What is the base?"))
+
+area = height * base
+print(area)
